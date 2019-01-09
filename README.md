@@ -1,4 +1,4 @@
-# bitcoinTopologySimulation
+# Bitcoin Topology Simulation
 This simulation was written as part of a Semester Thesis at the ETH Zürich during my first semester in my Masters.
 
 ## use
